@@ -1,3 +1,2 @@
 # hexlet-basics
-*Some information*
-**add readme***
+Information
