@@ -1,2 +1,2 @@
 # hexlet-basics
-hexlet
+*Some information*
